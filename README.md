@@ -2,7 +2,7 @@
 Create a local environment and launch code on a HPC.
 
 ## Usage
-One needs to define the dependencies in `requirements.txt`.
+One needs to define the python dependencies in `requirements.txt`.
 
 Launching a script simply entails running the following command
 ```
